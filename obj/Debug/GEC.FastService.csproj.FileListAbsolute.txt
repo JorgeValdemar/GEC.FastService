@@ -1,0 +1,8 @@
+c:\users\teste\documents\visual studio 2013\Projects\GEC.FastService\bin\GEC.FastService.dll.config
+c:\users\teste\documents\visual studio 2013\Projects\GEC.FastService\bin\GEC.FastService.dll
+c:\users\teste\documents\visual studio 2013\Projects\GEC.FastService\bin\GEC.FastService.pdb
+c:\users\teste\documents\visual studio 2013\Projects\GEC.FastService\obj\Debug\GEC.FastService.csprojResolveAssemblyReference.cache
+c:\users\teste\documents\visual studio 2013\Projects\GEC.FastService\obj\Debug\GEC.FastService.dll
+c:\users\teste\documents\visual studio 2013\Projects\GEC.FastService\obj\Debug\GEC.FastService.pdb
+c:\users\teste\documents\visual studio 2013\Projects\GEC.FastService\bin\Newtonsoft.Json.dll
+c:\users\teste\documents\visual studio 2013\Projects\GEC.FastService\bin\Newtonsoft.Json.xml
